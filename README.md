@@ -11,7 +11,7 @@ Bu proje'de:
 * Camera, File, Storage, Geolaction pluginleri 
 * Ve son olarak Angular2-Google-Map kütüphanesi kullanılmıştır.
 
-###Proje Genel Tanım
+### Proje Genel Tanım
 
  Projenin kullanim amaci, kullanicilara begendikleri anlari/yerleri fotograflayip diger kullanicilarla paylasmasidir.
  Instagram'in emekledigi donemlerindeki haline benzetebilirsiniz.
