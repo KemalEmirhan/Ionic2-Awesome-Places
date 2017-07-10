@@ -1,5 +1,3 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
-
 ## Awesome Places
 
 *Bu projeyi gelecek projelere örnek olsun diye yaptim*. 
@@ -8,12 +6,16 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 
 Bu proje'de:
 
--Genel ionic 2 componentleri
--Cordova Plugin'leri
--Camera, File, Storage, Geolaction pluginleri 
--Ve son olarak Angular2-Google-Map kütüphanesi kullanılmıştır.
+* Genel ionic 2 componentleri
+* Cordova Plugin'leri
+* Camera, File, Storage, Geolaction pluginleri 
+* Ve son olarak Angular2-Google-Map kütüphanesi kullanılmıştır.
+
+###Proje Genel Tanım
+
+ Projenin kullanim amaci, kullanicilara begendikleri anlari/yerleri fotograflayip diger kullanicilarla paylasmasidir.
+ Instagram'in emekledigi donemlerindeki haline benzetebilirsiniz.
+
+ > Lutfen pull-request atarak, bu projeye katkida bulunmayi unutmayin.
 
 
-
-
-    
